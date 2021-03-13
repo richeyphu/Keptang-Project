@@ -5,4 +5,4 @@
 **INT-104 Final Project (IT62@TNI)**
 - This application is made from JAVA.
 - Support multi POS account.
-- All data stored in text file. (Just for education purpose :3)
+- All data stored in text file. (Just for educational purpose :3)
