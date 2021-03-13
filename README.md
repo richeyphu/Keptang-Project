@@ -11,6 +11,6 @@
 - All data stored in text file. (Just for educational purpose :3)
 
 ### Project Infomation.
-* This project dev on `Java JDK 1.8 and WindowsBuilder`.
+* This project dev on `Java JDK 13.0.1 and WindowsBuilder`.
 
->***Require `Java JDK 1.8 or a later update and WindowsBuilder.`***
+>***Require `Java JDK 13.0.1 or a later update and WindowsBuilder.`***
